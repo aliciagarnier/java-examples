@@ -1,9 +1,11 @@
+package streams;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class streams {
 
-    // A API de streams foi introduzida no Java 8, seu objetivo é facilitar trabalhar com conjunto de dados. A ideia é
+    // A API de streams.streams foi introduzida no Java 8, seu objetivo é facilitar trabalhar com conjunto de dados. A ideia é
     // iterar sobre coleções de objetos, e a cada elemento, realizar alguma ação ou aplicar uma função.
 
     public static void main(String[] args) {
